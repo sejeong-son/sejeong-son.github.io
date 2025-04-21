@@ -5,6 +5,7 @@ date: 2025-04-19 01:42:00 +0900
 categories: [Physics, Lagrangian Mechanics]
 tags: [Action, Lagrange, Mechanics, Variations, Functional]
 render_with_liquid: false
+use_math: true
 ---
 # Introduction
 자연과학을 배우는 과정에서 어떠한 법칙에 대해 '그냥 그런 줄 알아'하고 넘어가는 경우가 많다. 특히 물리학I에서 파동의 반사와 굴절을 배울 때 이러한 논리는 자주 인용된다 Veritasium의 영상 [The Closest We’ve Come to a Theory of Everything](https://www.youtube.com/watch?v=Q10_srZ-pbs)에서는  최소 작용의 원리<sub>Principle of Least Action</sub> 혹은 해밀턴의 원리<sub>Hamilton's Principle</sub>을 통해 명쾌하게 설명한다. 이번 포스트에서는 영상에서 모든 사람들의 이해를 위해 간략하게 설명한 부분을 좀 더 보충하여 그 원리를 엄밀히 보이고자 한다. 
